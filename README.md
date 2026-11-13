@@ -1,6 +1,6 @@
-Academic and Research Profile | Management & Organizations | Global Strategy | Supply Chain Strategy | International Logistics
+Academic and Research Profile | Management & Organizations | Global Strategy | Supply Chain Strategy | International Logistics.               <img src="RSR.JPEG" alt="Profile Picture" width="180">
 
-Hi,   
+Hi,                                                                                                              
 I am a logistics and business development professional with over 10 years of experience in the logistics and freight forwarding industry, business development, customer relationship management, and commercial strategy.   
 My academic interests focus on understanding how organizations develop competitive advantages, coordinate across international networks, and navigate complex global supply chain environments.
 
@@ -45,7 +45,7 @@ My long-term academic objective is to investigate strategic management and organ
 
 ## Curriculum Vitae
 
-[Download My CV (PDF)](documents/Ragil_Restyandhari_CV.pdf)
+[Download My CV (PDF)](documents/Ragil_Restyandhari_CV.pdf) <a href="documents/CV%20Ragil%20Restyandhari.pdf" download>Download My CV (PDF)</a>
 
 ## Contact
 
