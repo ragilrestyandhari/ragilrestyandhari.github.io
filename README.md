@@ -22,7 +22,7 @@ Major in Marketing, 2022 | GPA: 3.65/4.00
 
 **Bachelor's Degree in Economic**  
 STMT Trisakti, Indonesia  
-Major in Air Transport Management, GPA: 3.42/4.00
+Major in Air Transport Management, 2015 | GPA: 3.42/4.00
 
 ## Professional Experience
 
