@@ -1,5 +1,4 @@
-Academic and Research Profile, Global Strategy, Management & Organizationsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="RSR.JPEG" alt="Profile Picture" width="120"> 
-
+Academic and Research Profile, Global Strategy, Management & Organizationsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="RSR.JPEG" alt="Profile Picture" width="120">
 
 Hi,                                                                                                              
 I am a logistics and business development professional with over 10 years of experience in the logistics and freight forwarding industry, business development, customer relationship management, and commercial strategy.   
