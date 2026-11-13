@@ -1,4 +1,4 @@
-Academic and Research Profile | Global Strategy | Management & Organizationsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="RSR.JPEG" alt="Profile Picture" width="120"> 
+Academic and Research Profile, Global Strategy, Management & Organizationsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="RSR.JPEG" alt="Profile Picture" width="120"> 
 
 
 Hi,                                                                                                              
