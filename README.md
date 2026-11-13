@@ -1,5 +1,5 @@
-Academic and Research Profile | Management & Organizations | Global Strategy.                                          <img src="RSR.JPEG" alt="Profile Picture" width="180">
-Supply Chain Strategy | International Logistics.              
+Academic and Research Profile, International Logistics, Global Strategy.                                                                             <img src="RSR.JPEG" alt="Profile Picture" width="180">
+Supply Chain Strategy, Management & Organizations,              
 
 Hi,                                                                                                              
 I am a logistics and business development professional with over 10 years of experience in the logistics and freight forwarding industry, business development, customer relationship management, and commercial strategy.   
