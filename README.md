@@ -1,4 +1,3 @@
-# Ragil Restyandhari
 Academic and Research Profile | Management &amp; Organizations | Global Strategy | Supply Chain Strategy | International Logistics
 
 Hi, Welcome to my academic and professional repository.   
