@@ -1,4 +1,4 @@
-Academic and Researcher, Global Strategy, Management & Organizationsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="RSR.JPEG" alt="Profile Picture" width="120">
+Academic and Researcher, Global Strategy, Management & Organizationsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="RSR.JPEG" alt="Profile Picture" width="120">
 
 
 Hi,                                                                                                              
