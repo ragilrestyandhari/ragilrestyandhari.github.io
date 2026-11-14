@@ -42,24 +42,39 @@
         header {
             display: flex;
             justify-content: space-between;
-            align-items: flex-start;
+            align-items: center;
             border-bottom: 2px solid var(--border);
             padding-bottom: 28px;
             margin-bottom: 32px;
             flex-wrap: wrap;
+            gap: 24px;
+        }
+
+        .profile-wrapper {
+            display: flex;
+            align-items: center;
             gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .profile-img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 2px solid var(--primary);
         }
 
         .profile-info h1 {
-            margin: 0 0 6px 0;
-            font-size: 2.1rem;
+            margin: 0 0 4px 0;
+            font-size: 1.9rem;
             color: #0f172a;
             letter-spacing: -0.02em;
         }
 
         .profile-info p.subtitle {
-            margin: 0 0 12px 0;
-            font-size: 1.05rem;
+            margin: 0 0 8px 0;
+            font-size: 1rem;
             color: var(--muted);
             font-weight: 500;
         }
@@ -67,7 +82,7 @@
         .links {
             display: flex;
             gap: 16px;
-            font-size: 0.92rem;
+            font-size: 0.9rem;
         }
 
         .links a {
@@ -178,6 +193,7 @@
             }
             header {
                 flex-direction: column;
+                align-items: flex-start;
             }
         }
     </style>
@@ -186,22 +202,27 @@
 
     <div class="container">
         <header>
-            <div class="profile-info">
-                <h1>Ragil Restyandhari</h1>
-                <p class="subtitle">International Logistics Networks &amp; Strategic Management</p>
-                <div class="links">
-                    <a href="https://github.com/ragilrestyandhari" target="_blank">GitHub</a>
-                    <a href="mailto:your.email@example.com">Email</a>
-                    <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+            <div class="profile-wrapper">
+                <!-- Profile Picture -->
+                <img src="RSR.JPEG" alt="Ragil Restyandhari" class="profile-img">
+                
+                <div class="profile-info">
+                    <h1>Ragil Restyandhari</h1>
+                    <p class="subtitle">International Logistics Networks &amp; Strategic Management</p>
+                    <div class="links">
+                        <a href="https://github.com/ragilrestyandhari" target="_blank">GitHub</a>
+                        <a href="mailto:your.email@example.com">Email</a>
+                        <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+                    </div>
                 </div>
             </div>
 
-            <!-- Action Buttons for your CV -->
+            <!-- CV Buttons linked to your exact PDF file name -->
             <div class="cv-actions">
-                <a href="CV_RSR.pdf" class="btn btn-primary" target="_blank">
+                <a href="CV RSR.pdf" class="btn btn-primary" target="_blank">
                     View CV
                 </a>
-                <a href="CV_RSR.pdf" class="btn btn-outline" download>
+                <a href="CV RSR.pdf" class="btn btn-outline" download>
                     Download PDF
                 </a>
             </div>
@@ -213,12 +234,12 @@
                 My professional experience spans logistics, freight forwarding, air cargo, commercial development, and customer relationship management.
             </p>
             <ul class="expertise-grid">
-                <li>Business Development &amp; Commercial Strategy[cite: 1]</li>
-                <li>International Airfreight Operations[cite: 1]</li>
-                <li>Strategic Customer Relationship Management[cite: 1]</li>
-                <li>Logistics Network Development[cite: 1]</li>
-                <li>Pricing &amp; Revenue Management[cite: 1]</li>
-                <li>Supply Chain Coordination[cite: 1]</li>
+                <li>Business Development &amp; Commercial Strategy</li>
+                <li>International Airfreight Operations</li>
+                <li>Strategic Customer Relationship Management</li>
+                <li>Logistics Network Development</li>
+                <li>Pricing &amp; Revenue Management</li>
+                <li>Supply Chain Coordination</li>
             </ul>
         </section>
 
@@ -226,11 +247,11 @@
             <h2>Research Direction</h2>
             <div class="research-box">
                 <p>
-                    My long-term academic objective is to investigate strategic management and organizational phenomena within international logistics networks, with particular interest in network governance, inter-organizational relationships, and global competitive dynamics[cite: 1].
+                    My long-term academic objective is to investigate strategic management and organizational phenomena within international logistics networks, with particular interest in network governance, inter-organizational relationships, and global competitive dynamics.
                 </p>
             </div>
         </section>
     </div>
 
 </body>
-</html>
+</html> 
