@@ -46,7 +46,7 @@ My long-term academic objective is to investigate strategic management and organ
 
 ## Curriculum Vitae
 
-<a href="CV%20RSR.pdf" download>Download My CV (PDF)</a>
+<a href="CV_Ragil%20Restyandhari.pdf" download>Download My CV (PDF)</a>
 
 ## Contact
 
